@@ -1,0 +1,30 @@
+{
+  "name": "cam-motors",
+  "version": "1.0.0",
+  "description": "cam motos",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Letto-sama/CamMotors.git"
+  },
+  "keywords": [
+    "fun",
+    "ninjas"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Letto-sama/CamMotors/issues"
+  },
+  "homepage": "https://github.com/Letto-sama/CamMotors#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.17"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
